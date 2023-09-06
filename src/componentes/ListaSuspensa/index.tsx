@@ -7,7 +7,7 @@ interface ListaSuspensaProps {
     
     valor:string
     itens:string[]
-    times: string[]
+    
     obrigatorio:boolean
 
 }
